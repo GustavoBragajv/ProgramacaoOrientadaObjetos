@@ -1,14 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package modificadorfinalclassesmetodos;
 
-/**
- *
- * @author higor
- */
-public final class Carros {
+public class Carros {
     private String marca;
     private String modelo;
     private static final int VELOCIDADE_LIMITE = 250; // Constante
